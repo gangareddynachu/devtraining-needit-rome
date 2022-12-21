@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_composite_data_template_predicate">
+    <sys_ux_composite_data_template_predicate action="DELETE">
+        <active>true</active>
+        <condition/>
+        <custom_condition/>
+        <custom_field_list/>
+        <field_list/>
+        <name>Occasions View Config</name>
+        <order>10</order>
+        <predicate_bundle display_value="Occasions View Config Bundle">b9f3fed397331110d57c74400153afe7</predicate_bundle>
+        <required_roles/>
+        <sys_class_name>sys_ux_composite_data_template_predicate</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-12-21 17:21:32</sys_created_on>
+        <sys_id>3544361797331110d57c74400153af91</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Occasions View Config</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_ux_composite_data_template_predicate_3544361797331110d57c74400153af91</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-12-21 17:21:32</sys_updated_on>
+        <table>x_58872_needit_needit</table>
+        <ux_template/>
+    </sys_ux_composite_data_template_predicate>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</application>
+        <file_path/>
+        <instance_id>92cf9490db6797846578f22ebf961973</instance_id>
+        <instance_name>dev66590</instance_name>
+        <name>sys_ux_composite_data_template_predicate_3544361797331110d57c74400153af91</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_composite_data_template_predicate"><sys_ux_composite_data_template_predicate action="INSERT_OR_UPDATE"><active>true</active><condition/><custom_condition/><custom_field_list/><field_list/><name>Occasions View Config</name><order>10</order><predicate_bundle display_value="Occasions View Config Bundle">b9f3fed397331110d57c74400153afe7</predicate_bundle><required_roles/><sys_class_name>sys_ux_composite_data_template_predicate</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2022-12-21 17:21:32</sys_created_on><sys_id>3544361797331110d57c74400153af91</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Occasions View Config</sys_name><sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package><sys_policy/><sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope><sys_update_name>sys_ux_composite_data_template_predicate_3544361797331110d57c74400153af91</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2022-12-21 17:21:32</sys_updated_on><table>x_58872_needit_needit</table><ux_template/></sys_ux_composite_data_template_predicate></record_update>]]></payload>
+        <payload_hash>1031117284</payload_hash>
+        <record_name>Occasions View Config</record_name>
+        <reverted_from/>
+        <source>03120f0797771110d57c74400153afc7</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-12-21 17:21:32</sys_created_on>
+        <sys_id>b325361797331110d57c74400153afb6</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18535b461a80000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-12-21 17:21:32</sys_updated_on>
+        <type>EVAM View Config</type>
+        <update_guid>fb253617a0331110abc0e765cfdaa7b5</update_guid>
+        <update_guid_history>fb253617a0331110abc0e765cfdaa7b5:1031117284</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-12-21 17:23:11</sys_created_on>
+        <sys_db_object display_value="" name="sys_ux_composite_data_template_predicate">sys_ux_composite_data_template_predicate</sys_db_object>
+        <sys_id>321ac1ae301e4226bb650f1fdd190b99</sys_id>
+        <sys_metadata>3544361797331110d57c74400153af91</sys_metadata>
+        <sys_name>Occasions View Config</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_scope_delete display_value="">94872a8897db403e8ee69a431de2fca4</sys_scope_delete>
+        <sys_update_name>sys_ux_composite_data_template_predicate_3544361797331110d57c74400153af91</sys_update_name>
+        <sys_update_version display_value="sys_ux_composite_data_template_predicate_3544361797331110d57c74400153af91">b325361797331110d57c74400153afb6</sys_update_version>
+    </sys_metadata_delete>
+</record_update>

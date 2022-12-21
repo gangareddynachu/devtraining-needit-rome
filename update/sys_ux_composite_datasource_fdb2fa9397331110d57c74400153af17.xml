@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_composite_datasource">
+    <sys_ux_composite_datasource action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <condition table="x_58872_needit_needit_task">stateIN3,4^EQ<item display_value="3,4" endquery="false" field="state" goto="false" newquery="false" operator="IN" or="false" value="3,4"/>
+            <item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/>
+        </condition>
+        <encoded_query_script/>
+        <name>My NeedIt Tasks EVAM Datasource</name>
+        <sort_by>due_date</sort_by>
+        <sys_class_name>sys_ux_composite_datasource</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-12-21 17:11:50</sys_created_on>
+        <sys_id>fdb2fa9397331110d57c74400153af17</sys_id>
+        <sys_name>My NeedIt Tasks EVAM Datasource</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_ux_composite_datasource_fdb2fa9397331110d57c74400153af17</sys_update_name>
+        <table>x_58872_needit_needit_task</table>
+    </sys_ux_composite_datasource>
+</record_update>
